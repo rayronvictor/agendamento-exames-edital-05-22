@@ -46,6 +46,9 @@ GET     /agendamentos/{id}
 POST    /agendamentos
 PUT     /agendamentos/{id}
 PATCH   /agendamentos/{id}
+
+# Transparência
+GET     /transparencia
 ```
 
 ## Filtros

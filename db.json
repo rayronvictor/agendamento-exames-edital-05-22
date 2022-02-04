@@ -464,21 +464,21 @@
    "users":[
       {
          "email":"fulano@email.com",
-         "password":"$2a$10$jQ4aqvE1c4scZD.8rUq6EupPwNDuKqX2rILui94uNEFp8PaNLfuvq",
+         "password":"$2a$10$HNDi9d4SXgBOrpq9VBUvbeKOm/Ko5rOWRbZIvCKttMQaA/6k5Ry5G",
          "nome":"Fulano da Silva",
          "data_nascimento":"01/10/1991",
          "id":1
       },
       {
          "email":"maria@email.com",
-         "password":"$2a$10$jQ4aqvE1c4scZD.8rUq6EupPwNDuKqX2rILui94uNEFp8PaNLfuvq",
+         "password":"$2a$10$HNDi9d4SXgBOrpq9VBUvbeKOm/Ko5rOWRbZIvCKttMQaA/6k5Ry5G",
          "nome":"Maria da Silva",
          "data_nascimento":"10/01/1983",
          "id":2
       },
       {
          "email":"jose@email.com",
-         "password":"$2a$10$jQ4aqvE1c4scZD.8rUq6EupPwNDuKqX2rILui94uNEFp8PaNLfuvq",
+         "password":"$2a$10$HNDi9d4SXgBOrpq9VBUvbeKOm/Ko5rOWRbZIvCKttMQaA/6k5Ry5G",
          "nome":"José da Silva",
          "data_nascimento":"10/01/1964",
          "id":3

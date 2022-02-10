@@ -32,7 +32,7 @@ POST    /users
 POST    /login
 
 # Campanhas
-GET 	/campanhas
+GET 	/campanha
 
 # Grupos de Atendimento
 GET     /grupos-atendimento

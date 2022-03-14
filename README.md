@@ -31,6 +31,9 @@ POST    /users
 # Autenticação JWT
 POST    /login
 
+# Tipos de Exames
+GET   /tipos_exame
+
 # Campanhas
 GET 	/campanhas
 

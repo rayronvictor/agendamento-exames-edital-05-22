@@ -32,7 +32,7 @@ POST    /users
 POST    /login
 
 # Campanhas
-GET 	/campanha
+GET 	/campanhas
 
 # Grupos de Atendimento
 GET     /grupos-atendimento
@@ -46,9 +46,6 @@ GET     /agendamentos/{id}
 POST    /agendamentos
 PUT     /agendamentos/{id}
 PATCH   /agendamentos/{id}
-
-# Transparência
-GET     /transparencia
 ```
 
 ## Filtros

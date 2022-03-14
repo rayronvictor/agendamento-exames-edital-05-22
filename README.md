@@ -32,7 +32,7 @@ POST    /users
 POST    /login
 
 # Tipos de Exames
-GET   /tipos_exame
+GET     /tipos_exame
 
 # Campanhas
 GET 	/campanhas
